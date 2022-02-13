@@ -18,7 +18,7 @@
     <img src="https://cdn.brammys.com/screenshots/2022/02/rustacean-flat-happy.png" alt="Logo" width="180">
   </a>
 
-<h3 align="center">Rust Webassembly Worker</h3>
+<h3 align="center">Rust WebAssembly Worker</h3>
 
   <p align="center">
     A really basic <a href="https://workers.cloudflare.com/">Cloudflare worker</a> made in rust.
@@ -63,8 +63,8 @@
 
 ## About The Project
 
-A really basic and mimimum inplementation of a rust cloudflare worker.  
-I made this to learn and try out cloudflare workers.
+A really basic and minimum implementation of a rust Cloudflare worker.  
+I made this to learn and try out Cloudflare workers.
 
 ### Built With
 
