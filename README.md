@@ -141,4 +141,4 @@ Distributed under the Apache License 2.0 License. See `LICENSE` for more informa
 
 [license-shield]: https://img.shields.io/github/license/BrammyS/rust-wasm-worker.svg?style=for-the-badge
 
-[license-url]: https://github.com/BrammyS/rust-wasm-worker/blob/master/LICENSE.txt
+[license-url]: https://github.com/BrammyS/rust-wasm-worker/blob/master/LICENSE
