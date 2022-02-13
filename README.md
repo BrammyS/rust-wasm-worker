@@ -15,7 +15,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/BrammyS/rust-wasm-worker">
-    <img src="https://cdn.brammys.com/screenshots/2022/02/rustacean-flat-happy.png" alt="Logo" width="240">
+    <img src="https://cdn.brammys.com/screenshots/2022/02/rustacean-flat-happy.png" alt="Logo" width="180">
   </a>
 
 <h3 align="center">Rust Webassembly Worker</h3>
