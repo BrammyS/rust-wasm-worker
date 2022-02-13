@@ -131,14 +131,14 @@ Distributed under the Apache License 2.0 License. See `LICENSE` for more informa
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[stars-shield]: https://img.shields.io/github/stars/BrammyS/rust-wasm-worker.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/BrammyS/rust-wasm-worker?style=for-the-badge
 
 [stars-url]: https://github.com/BrammyS/rust-wasm-worker/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/BrammyS/rust-wasm-worker.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/BrammyS/rust-wasm-worker?style=for-the-badge
 
 [issues-url]: https://github.com/BrammyS/rust-wasm-worker/issues
 
-[license-shield]: https://img.shields.io/github/license/BrammyS/rust-wasm-worker.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/BrammyS/rust-wasm-worker?style=for-the-badge
 
 [license-url]: https://github.com/BrammyS/rust-wasm-worker/blob/master/LICENSE
