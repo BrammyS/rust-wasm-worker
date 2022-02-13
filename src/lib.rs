@@ -1,4 +1,4 @@
-use chrono::{Utc};
+use chrono::Utc;
 use worker::*;
 
 mod utils;

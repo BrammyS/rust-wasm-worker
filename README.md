@@ -18,7 +18,7 @@
     <img src="https://cdn.brammys.com/screenshots/2022/02/rustacean-flat-happy.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">Rust Webassembly Worker</h3>
+<h3 align="center">Rust Webassembly Worker</h3>
 
   <p align="center">
     A really basic <a href="https://workers.cloudflare.com/">Cloudflare worker</a> made in rust.
@@ -60,6 +60,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 A really basic and mimimum inplementation of a rust cloudflare worker.  
@@ -70,13 +71,11 @@ I made this to learn and try out cloudflare workers.
 * [Rust](https://www.rust-lang.org/tools/install)
 * [Cloudflare workers](https://workers.cloudflare.com/)
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
-
 
 ### Prerequisites
 
@@ -86,7 +85,6 @@ To get a local copy up and running follow these simple steps.
 ### Installation
 
 #### Cloning
-
 
 1. Clone the repo
    ```sh
@@ -101,12 +99,12 @@ To get a local copy up and running follow these simple steps.
    wrangler dev
    ```
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any
+contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -114,9 +112,8 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the Apache License 2.0 License. See `LICENSE` for more information.
@@ -124,19 +121,24 @@ Distributed under the Apache License 2.0 License. See `LICENSE` for more informa
 
 
 <!-- ACKNOWLEDGEMENTS -->
+
 ## Acknowledgements
 
 * [Chrono](https://docs.rs/chrono/latest/chrono/)
 * [cfg-if](https://docs.rs/cfg-if/latest/cfg_if/)
 * [Worker](https://docs.rs/worker/latest/worker//)
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [stars-shield]: https://img.shields.io/github/stars/BrammyS/rust-wasm-worker.svg?style=for-the-badge
+
 [stars-url]: https://github.com/BrammyS/rust-wasm-worker/stargazers
+
 [issues-shield]: https://img.shields.io/github/issues/BrammyS/rust-wasm-worker.svg?style=for-the-badge
+
 [issues-url]: https://github.com/BrammyS/rust-wasm-worker/issues
+
 [license-shield]: https://img.shields.io/github/license/BrammyS/rust-wasm-worker.svg?style=for-the-badge
+
 [license-url]: https://github.com/BrammyS/rust-wasm-worker/blob/master/LICENSE.txt
