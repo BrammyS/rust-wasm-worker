@@ -126,7 +126,7 @@ Distributed under the Apache License 2.0 License. See `LICENSE` for more informa
 
 * [Chrono](https://docs.rs/chrono/latest/chrono/)
 * [cfg-if](https://docs.rs/cfg-if/latest/cfg_if/)
-* [Worker](https://docs.rs/worker/latest/worker//)
+* [Worker](https://docs.rs/worker/latest/worker/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
