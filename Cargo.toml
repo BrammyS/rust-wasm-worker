@@ -1,7 +1,7 @@
 [package]
 name = "rust-wasm-worker"
 version = "0.1.0"
-authors = ["Bram <bram.esendam@gmail.com>"]
+authors = ["Bram"]
 edition = "2018"
 
 [lib]

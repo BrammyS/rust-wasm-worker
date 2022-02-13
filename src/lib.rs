@@ -21,7 +21,7 @@ pub async fn main(req: Request, env: Env, _ctx: worker::Context) -> Result<Respo
     utils::set_panic_hook();
 
     Router::new()
-        .get("/", |_, _| Response::ok("Hello from Workers!"))
+        .get("/", |_, _| Response::ok("Hello from a Rust Cloudflare worker!"))
         .get("/worker-version", |_, ctx| {
             let version = ctx.var("WORKERS_RS_VERSION")?.to_string();
             Response::ok(version)
