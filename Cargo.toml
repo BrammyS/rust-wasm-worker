@@ -12,7 +12,7 @@ default = ["console_error_panic_hook"]
 
 [dependencies]
 cfg-if = "1.0.0"
-worker = "0.0.11"
+worker = "0.0.12"
 chrono = "0.4.23"
 
 # The `console_error_panic_hook` crate provides better debugging of panics by
