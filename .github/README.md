@@ -24,8 +24,6 @@
     A really basic <a href="https://workers.cloudflare.com/">Cloudflare worker</a> made in rust.
     <br />
     <br />
-    <a href="https://rust-wasm-worker.brammys.com">View Demo</a>
-    ·
     <a href="https://github.com/BrammyS/rust-wasm-worker/issues">Report Bug</a>
     ·
     <a href="https://github.com/BrammyS/rust-wasm-worker/issues">Request Feature</a>
